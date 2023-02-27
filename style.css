@@ -1,0 +1,205 @@
+p{
+    font-family: 'Playfair Display SC', serif;
+    font-weight: bold;
+    line-height: 3px;
+    /* color: rgb(25, 21, 3); */
+}
+
+
+.heading{
+    margin-left: 30px;
+    color: #a28089;
+}
+
+
+    .img1:hover{
+        opacity: 0.6;
+    }
+    
+    .img2:hover{
+        opacity: 0.6;
+    }
+   
+    .img3:hover{
+        opacity: 0.6;
+    }
+
+    .img4:hover{
+        opacity: 0.6;
+    }
+    .img5:hover{
+        opacity: 0.6;
+    }
+    .img7:hover{
+        opacity: 0.6;
+    }
+    .img8:hover{
+        opacity: 0.6;
+    }
+    .img9:hover{
+        opacity: 0.6;
+    }
+    .img10:hover{
+        opacity: 0.6;
+    }
+.style{
+    display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+} 
+.text{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.preview{
+    justify-content: space-between;
+    /* background-color: rgb(60, 91, 91); */
+    /* margin-bottom: 100px; */
+}
+.img1 {
+    width: 283px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer;
+}
+.img2 {
+    width: 283px;
+    margin-top: 25px;
+        transition: opacity 1s;
+        cursor: pointer;
+}
+.img3 {
+    width: 283px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer;
+}
+.img4 {
+    width: 283px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer;
+}
+.img6 {
+    width: 283px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer;
+}
+.img5 {
+    width: 283px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer;
+}
+.img7{
+    width: 300px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer; 
+}
+.img8{
+    width: 300px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer; 
+}
+.img9{
+    width: 260px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer; 
+}
+.img10{
+    width: 260px;
+    margin-top: 25px;
+        transition: opacity 0.5s;
+        cursor: pointer; 
+}
+
+
+.c1{
+    margin-left: 30px;
+}
+
+.c2{
+    margin-left: 75px;
+}
+.c3{
+    margin-left: 90px;
+}
+.c4{
+    margin-left: 150px;
+}
+.c5{
+    margin-left: 130px;
+}
+.c6 {
+    margin-right: 30px;
+}
+.c7 {
+    margin-left: 250px;
+}
+.c8 {
+    margin-left: 180px;
+}
+.c9 {
+    margin-left: 160px;
+}
+.c10 {
+    margin-left: 180px;
+}
+
+.ca{
+    margin-left: 30px;
+}
+
+.cb{
+    margin-left: 110px;
+}
+.cc{
+    margin-left: 170px;
+}
+.cd{
+    margin-left: 165px;
+}
+.ce{
+    margin-left: 130px;
+}
+.cf {
+    margin-right: 30px;
+}
+.cg {
+    margin-left: 255px;
+}
+/* .cg {
+    margin-left: 250px;
+} */
+.ch {
+    margin-left: 190px;
+}
+.ci {
+    margin-left: 180px;
+}
+.cj {
+    margin-left: 150px;
+}
+
+.tour{
+    display: flex;
+    flex-direction: row;
+    color: gray;
+    text-align: center;
+}
+.tour2{
+    display: flex;
+    flex-direction: row;
+    color: gray;
+    text-align: center;
+}
+.text2{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
